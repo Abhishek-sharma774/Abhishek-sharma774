@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Abhishek-sharma774
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Backend Development
 - 💞️ I’m looking to collaborate on Php or Python based projects.
-- 📫 How to reach me abhishekji774@gmail.com
+- 📫 How to reach me-  abhishekji774@gmail.com
+- ☎️ Direct Contact - 8393937817
